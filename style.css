@@ -1,0 +1,18 @@
+.tic-tac-toe {
+    width: 600px;
+    height: 600px;
+    border: solid black 2px;
+    margin: 100px auto;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: solid black 1px;
+    float: left;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 150px;
+    line-height: 160px;
+    text-transform: uppercase;
+}
